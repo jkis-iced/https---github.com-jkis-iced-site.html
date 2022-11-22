@@ -1,0 +1,78 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(230, 236, 123);
+    display: block;
+    padding: 30px 0px;
+    max-width: 100%;
+    border: 1px solid rgb(117, 138, 21);
+    display: flex;
+    flex: row wrap;
+    justify-content: center;
+    color: #788100;
+    margin-top: 100px;
+  }
+  a {
+    text-align: center;
+    font-size:large;
+    border: solid rgb(143, 145, 0) 1px;
+    padding: 15px;
+    background-color:rgb(204, 247, 97) ;
+    color: #989833;
+    display: flex;
+    flex: row wrap;
+    margin: 0px;
+    
+  }
+  div{
+    margin-top: 50px;
+    display: inline;
+    display: flex;
+    flex: row wrap ;
+    justify-content: center;
+  
+  }
+  html {
+    background: linear-gradient(rgb(86, 95, 25), rgb(120, 156, 47), rgb(234, 215, 70), rgb(116, 189, 20));
+    margin: 0%;
+    display: flex;
+    display: block;
+  
+  }
+  a:hover{
+    color: #6c6e00;
+  
+  }
+  img{
+   
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: block;
+    position: relative;
+    max-width: 600px;
+    margin-top: 30px;
+    border: 3px solid rgb(252, 255, 175);
+    border-radius: 100%;
+    margin-bottom: 100px;
+    
+  
+  }
+  footer{
+    color: rgb(15, 5, 41);
+    display: block;
+  background-color: rgb(227, 227, 255);
+  margin: 0px;
+  justify-content: center;
+  text-align: center;
+  display:flex ;
+  
+  }
+  footer img{
+    display: inline;
+    max-width: 30px;
+    border: none;
+   
+  }

@@ -1,0 +1,76 @@
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(247, 186, 119);
+    display: block;
+    padding: 30px 0px;
+    max-width: 100%;
+    border: 1px solid rgb(32, 29, 4);
+    display: flex;
+    flex: column wrap;
+    justify-content: center;
+ 
+}
+a {
+    text-align: center;
+    font-size: large;
+    border: solid rgb(114, 56, 34) 1px;
+    padding: 15px;
+    background-color:rgb(67, 48, 20) ;
+    display: flex;
+    flex: column wrap;
+    margin: 5px;
+    color: rgb(249, 108, 0);
+    
+}
+div{
+    margin-top: 50px;
+    display: inline;
+    display: flex;
+    flex: row wrap ;
+    justify-content: center;
+
+}
+html {
+    background: linear-gradient(rgb(74, 44, 4), rgb(86, 76, 8), rgb(145, 118, 27), rgb(64, 72, 7));
+  
+    display: flex;
+    display: block;
+    margin: 0px 0,5vh;
+}
+a:hover{
+    color: rgb(220, 175, 38);
+
+}
+img{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: block;
+    position: relative;
+    max-width: 450px;
+    margin-top: 50px;
+    border: black solid 1px;
+    margin-bottom: 100px;
+}
+.fdp{
+    margin: 0px 50px ;
+}
+footer{
+    color: rgb(15, 5, 41);
+    display: block;
+  background-color: rgb(227, 227, 255);
+  margin: 0px;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  
+  }
+  footer img{
+    display: inline;
+    max-width: 30px;
+  border: none;
+  }

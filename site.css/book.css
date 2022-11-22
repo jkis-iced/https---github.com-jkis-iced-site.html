@@ -1,0 +1,69 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(246, 246, 246);
+    display: block;
+    padding: 30px 0px;
+    max-width: 100%;
+    border: 1px solid rgb(144, 144, 144);
+    display: flex;
+    flex: row wrap;
+    justify-content: center;
+  }
+  a {
+    text-align: center;
+    font-size: xx-large;
+    border: solid rgb(255, 232, 232) 1px;
+    padding: 31px;
+    background-color:rgb(241, 241, 241) ;
+    display: flex;
+    flex: column wrap;
+    margin: 10px;
+    
+  }
+  div{
+    display: inline;
+    display: flex;
+    flex: row wrap ;
+    justify-content: center;
+  
+  }
+  html {
+    background: linear-gradient(rgb(127, 127, 127), rgb(255, 255, 255), rgb(255, 255, 255), rgb(255, 255, 255));
+    margin: 0%;
+    display: flex;
+    display: block;
+  
+  }
+  a:hover{
+    color: #868686;
+  
+  }
+  img{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: block;
+    position: relative;
+    max-width: 450px;
+    margin-top: 10px;
+  
+  }
+  
+  
+  footer{
+    color: rgb(15, 5, 41);
+    display: block;
+  background-color: rgb(227, 227, 255);
+  margin: 0px;
+  justify-content: center;
+  text-align: center;
+  
+  }
+  footer img{
+    display: inline;
+    max-width: 30px;
+  
+  }
